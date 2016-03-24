@@ -1,7 +1,7 @@
 Java-Thermometre
 ================
 
-Application réalise à l'iut pour représenter un thermomètre
+Application réalise à l'IUT de Lannion 22300 pour représenter un thermomètre
 
 
 Structure
