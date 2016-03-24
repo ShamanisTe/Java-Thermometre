@@ -1,7 +1,7 @@
 Java-Thermometre
 ================
 
-Application réalise à l'iut pour représenter un thermomètre
+Application réalise à l'IUT de Lannion 22300 pour représenter un thermomètre
 
 
 Structure
@@ -15,4 +15,4 @@ Thermometre : Une simple class qui contient les informations essentiels d'un the
 
 ThermoDessin : Un JPanel à mettre dans une JFrame qui va représenter visuellement le thermomètre et qui se sert de la méthode paint de java.awt.Graphics pour le modéliser
 
-ThermoSouris : extend de ThermoDessin, on ajoute des contrôles à la souris comme déplacer le thermomètre dans l'espace, modifier la températeur avec la molette
+ThermoSouris : extend de ThermoDessin, on ajoute des contrôles à la souris comme déplacer le thermomètre dans l'espace, modifier la températeur avec la molette de la souris
